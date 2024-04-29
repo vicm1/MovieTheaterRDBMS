@@ -1,0 +1,53 @@
+MovieID,Title,Genre,Director,StarringActors,Runtime,AgeRating
+1,"The Shawshank Redemption",Drama,"Frank Darabont","Tim Robbins, Morgan Freeman",142,R
+2,"The Godfather",Crime,"Francis Ford Coppola","Marlon Brando, Al Pacino",175,R
+3,Inception,Sci-Fi,"Christopher Nolan","Leonardo DiCaprio, Joseph Gordon-Levitt",148,PG-13
+4,"Forrest Gump",Drama,"Robert Zemeckis","Tom Hanks, Robin Wright",142,PG-13
+5,"The Dark Knight",Action,"Christopher Nolan","Christian Bale, Heath Ledger",152,PG-13
+6,"Pulp Fiction",Crime,"Quentin Tarantino","John Travolta, Uma Thurman",154,R
+7,Goodfellas,Crime,"Martin Scorsese","Robert De Niro, Ray Liotta",146,R
+8,"Kung Fu Hustle",Action,"Stephen Chow","Stephen Chow, Yuen Wah",99,R
+9,Cinderella,Animation,"Clyde Geronimi, Hamilton Luske","Ilene Woods, James MacDonald",74,G
+10,"Taxi Driver",Drama,"Martin Scorsese","Robert De Niro, Jodie Foster",113,R
+11,Mulan,Animation,"Tony Bancroft, Barry Cook","Ming-Na Wen, Eddie Murphy",88,G
+12,"The Lion King",Animation,"Roger Allers, Rob Minkoff","Matthew Broderick, Jeremy Irons",88,G
+13,Frozen,Animation,"Chris Buck, Jennifer Lee","Kristen Bell, Idina Menzel",102,PG
+14,"Crazy, Stupid, Love",Comedy,"Glenn Ficarra, John Requa","Steve Carell, Ryan Gosling",118,PG-13
+15,"Avengers: Endgame",Action,"Anthony and Joe Russo","Robert Downey Jr., Chris Hemsworth",181,PG-13
+16,"Toy Story",Animation,"John Lasseter","Tom Hanks, Tim Allen",81,G
+17,Zootopia,Animation,"Byron Howard, Rich Moore","Ginnifer Goodwin, Jason Bateman",108,PG
+18,"Guardians of the Galaxy",Action,"James Gunn","Chris Pratt, Zoe Saldana",121,PG-13
+19,"The Departed",Crime,"Martin Scorsese","Leonardo DiCaprio, Jack Nicholson",151,R
+20,Drive,Crime,"Nicolas Winding Refn","Ryan Gosling, Carey Mulligan",100,R
+21,"Reservoir Dogs",Crime,"Quentin Tarantino","Harvey Keitel, Tim Roth",99,R
+22,"The Little Mermaid",Animation,"Ron Clements, John Musker","Jodi Benson, Samuel E. Wright",83,G
+23,Pocahontas,Animation,"Mike Gabriel, Eric Goldberg","Irene Bedard, Mel Gibson",81,G
+24,Tangled,Animation,"Nathan Greno, Byron Howard","Mandy Moore, Zachary Levi",100,PG
+25,"Beauty and the Beast (2017)",Fantasy,"Bill Condon","Emma Watson, Dan Stevens",129,PG
+26,"The Jungle Book (2016)",Adventure,"Jon Favreau","Neel Sethi, Bill Murray",106,PG
+27,"Black Panther",Action,"Ryan Coogler","Chadwick Boseman, Michael B. Jordan",134,PG-13
+28,"Kill Bill: Volume 1",Action,"Quentin Tarantino","Uma Thurman, Lucy Liu",111,R
+29,"The Notebook",Romance,"Nick Cassavetes","Ryan Gosling, Rachel McAdams",123,PG-13
+30,"Finding Nemo",Animation,"Andrew Stanton","Albert Brooks, Ellen DeGeneres",100,G
+31,"La La Land",Drama,"Damien Chazelle","Ryan Gosling, Emma Stone",128,PG-13
+32,Aladdin,Animation,"Ron Clements, John Musker","Scott Weinger, Robin Williams",90,G
+33,"Raging Bull",Biography,"Martin Scorsese","Robert De Niro, Joe Pesci",129,R
+34,"Blade Runner 2049",Sci-Fi,"Denis Villeneuve","Ryan Gosling, Harrison Ford",164,R
+35,"God of Cookery",Comedy,"Stephen Chow","Stephen Chow, Karen Mok",95,R
+36,"Kill Bill: Volume 2",Action,"Quentin Tarantino","Uma Thurman, David Carradine",137,R
+37,"Django Unchained",Drama,"Quentin Tarantino","Jamie Foxx, Christoph Waltz",165,R
+38,"Shaolin Soccer",Action,"Stephen Chow","Stephen Chow, Vicki Zhao",87,PG-13
+39,"The Avengers",Action,"Joss Whedon","Robert Downey Jr., Chris Evans",143,PG-13
+40,"The Mermaid",Comedy,"Stephen Chow","Deng Chao, Lin Yun",94,R
+41,"Spider-Man: Homecoming",Action,"Jon Watts","Tom Holland, Michael Keaton",133,PG-13
+42,"Journey to the West: Conquering the Demons",Fantasy,"Stephen Chow","Wen Zhang, Shu Qi",110,PG-13
+43,"The Wolf of Wall Street",Biography,"Martin Scorsese","Leonardo DiCaprio, Jonah Hill",180,R
+44,"Silent Night",Action,"John Woo","Joel Kinnaman, Catalina Sandino",104,R
+45,"Godzilla Minus One",Adventure,"Takashi Yamazaki","Minami Hamabe, Ryunosuke Kamiki",125,PG-13
+46,"The Killer",Action,"John Woo","Chow Yun-fat, Danny Lee",104,R
+47,"The Iron Claw",Drama,"Sean Durkin","Zac Efron, Jeremy Allen White",130,R
+48,Wonka,Adventure,"Paul King","Timothee Chalamet, Olivia Colman",112,PG
+49,"Hard Boiled",Crime,"John Woo","Chow Yun-fat, Tony Leung",128,R
+50,Ferrari,Biography,"Michael Mann","Adam Driver, Shailene Woodley",130,R
+51,"Mean Girls",Comedy,"Samantha Jayne, Arturo Perez Jr.","Angourie Rice, Renee Rapp",150,PG-13
+52,"The Beekeeper",Action,"David Ayer","Josh Hutcherson, Jason Statham",101,R
